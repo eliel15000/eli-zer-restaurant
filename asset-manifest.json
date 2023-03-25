@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/eli-zer-restaurant/static/css/main.23d7f37b.css",
+    "main.js": "/eli-zer-restaurant/static/js/main.085b9e44.js",
+    "static/media/meal.mp4": "/eli-zer-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/eli-zer-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/eli-zer-restaurant/static/media/welcome.9a30e1440bfcb540c507.png",
+    "static/media/chef.png": "/eli-zer-restaurant/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/eli-zer-restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/laurels.png": "/eli-zer-restaurant/static/media/laurels.d2d2be512e9be63369a1.png",
+    "static/media/findus.png": "/eli-zer-restaurant/static/media/findus.d5ca74ee5464d6dfb38e.png",
+    "static/media/knife.png": "/eli-zer-restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/EZ.png": "/eli-zer-restaurant/static/media/EZ.f9b2598c3f357a3c33ac.png",
+    "static/media/gallery03.avif": "/eli-zer-restaurant/static/media/gallery03.3678b827d46a52827010.avif",
+    "static/media/gallery06.avif": "/eli-zer-restaurant/static/media/gallery06.a1378a76d5ae59f845f7.avif",
+    "static/media/gallery04.avif": "/eli-zer-restaurant/static/media/gallery04.a150a39fd20c423a00a0.avif",
+    "static/media/gallery01.avif": "/eli-zer-restaurant/static/media/gallery01.a7629b3495dee0ea17cd.avif",
+    "static/media/gallery02.avif": "/eli-zer-restaurant/static/media/gallery02.b5c15363465f9503c750.avif",
+    "static/media/gallery05.avif": "/eli-zer-restaurant/static/media/gallery05.8656171774c20eacd019.avif",
+    "static/media/eliandzer.png": "/eli-zer-restaurant/static/media/eliandzer.80484d8e582ff3fe4aee.png",
+    "static/media/award02.png": "/eli-zer-restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/eli-zer-restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/eli-zer-restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/eli-zer-restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/eli-zer-restaurant/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/spoon.svg": "/eli-zer-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "index.html": "/eli-zer-restaurant/index.html",
+    "main.23d7f37b.css.map": "/eli-zer-restaurant/static/css/main.23d7f37b.css.map",
+    "main.085b9e44.js.map": "/eli-zer-restaurant/static/js/main.085b9e44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d7f37b.css",
+    "static/js/main.085b9e44.js"
+  ]
+}

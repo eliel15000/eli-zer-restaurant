@@ -41,7 +41,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">{new Date().getFullYear() + " Eli & Zer. All Rights Reserved."}</p>
+      <p className="p__opensans">{"2023 Eli & Zer. All Rights Reserved."}</p>
     </div>
   </div>
 );

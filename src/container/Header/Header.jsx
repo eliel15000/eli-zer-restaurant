@@ -10,7 +10,9 @@ const Header = () => (
       <SubHeading title="Chase The New Flavour" />
       <h1 className="app__header-h1">The City's Dining Room</h1>
       <p className="p__opensans" style={{ margin: "2rem 0"}}>Influenced by Florida's rich bounty and curated by Tamarac's grand downtown manor house, Eli & Zer serves sophisticated cuisine, prestigious wine, and inspiring moments at the heart of a city landmark.</p>
-      <button type="button" className="custom__button">Explore Menu</button>
+      <a href="#menu">
+        <button type="button" className="custom__button">Explore Menu</button>
+      </a>
     </div>
 
     <div className="app__wrapper_img">

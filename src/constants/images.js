@@ -21,7 +21,7 @@ import sign from "../assets/sign.png";
 import spoon from "../assets/spoon.svg";
 import welcome from "../assets/welcome.png";
 
- export default {
+ const images = {
   award01,
   award02,
   award03,
@@ -44,3 +44,5 @@ import welcome from "../assets/welcome.png";
   spoon,
   welcome
  };
+
+ export default images;

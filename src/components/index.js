@@ -3,11 +3,13 @@ import Newsletter from "./Footer/Newsletter";
 import FooterOverlay from "./Footer/FooterOverlay";
 import MenuItem from "./Menuitem/MenuItem";
 import Navbar from "./Navbar/Navbar";
+import Reservation from "./Reservation/Reservation";
 
 export {
   SubHeading,
   Newsletter,
   FooterOverlay,
   MenuItem,
-  Navbar
+  Navbar,
+  Reservation
 };
